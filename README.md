@@ -8,6 +8,8 @@ Sample example is to show different parts of the Git repository and various comm
 
 ## Deployment
 
+This is a simple web project, deployment can be on any web server or even local file system.
+
 ## How to contribute
 
 Limited contributions due to lack of knowledge
