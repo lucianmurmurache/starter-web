@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github together.
+This is a simple website project for showing how to use Git and Github together. 
 
 ## Purpose
 
@@ -12,4 +12,4 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to contribute
 
-Limited contributions due to lack of knowledge
+Limited contributions due to lack of knowledge but will try my best.
