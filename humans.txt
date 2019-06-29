@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Lucian> -- <Spider-web-developer> -- <Don´t have twitter>
 
 # THANKS
 
-    <name>
+    My biggest fan, Dyson bladeless.
 
 # TECHNOLOGY COLOPHON
 
