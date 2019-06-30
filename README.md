@@ -15,7 +15,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 Please fork this repository and then issue Pull Requests for review.
 
-Limited contributions due to lack of knowledge but will try my best.
+Still learning how to Git, any advice, shortcuts used, etc. very much welcome!
 
 ### Copyright
 
