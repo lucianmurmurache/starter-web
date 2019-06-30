@@ -20,4 +20,4 @@ Limited contributions due to lack of knowledge but will try my best.
 
 ### Copyright
 
-Git.Lucian No rights reserved, use as you please!
+Git.LucianMurmurache No rights reserved, use as you please! Rights are made up, non existant and unnatural! A concept invented for the purpose of suppression and control over the weak-minded!
